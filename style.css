@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+}
+
+#changeBTN {
+  padding: 15px;
+  width: auto;
+  border: 1px solid black;
+  border-radius: 5%;
+}
+
+#changeBTN:hover {
+  color: floralwhite;
+  background: lightseagreen;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.black {
+  background-color: black;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.pink {
+  background-color: pink;
+}
+.red {
+  background-color: red;
+}
+.navy {
+  background-color: navy;
+}
